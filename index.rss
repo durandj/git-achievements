@@ -2,7 +2,8 @@
 <title>Cadyyan's Git Achievements</title>
 <description></description>
 <link></link>
-<item><title>Made 2^Level commits using git commit.</title>
+<item><title>Add Signed-off-by line at the end of the commit log message using git commit -s.</title>
+<item><title>Made 2^Level commits using git commit.</title><description>Apprentice Locksmith (Level 3)</description></item>
 <item><title>pushed a branch to a remote repository using git push</title><description>Apprentice Author (Level 3)</description></item>
 <item><title>Added files to the index area for inclusion in the next commit with git add</title><description>Apprentice Socialite (Level 2)</description></item>
 <item><title>Used a custom alias for a Git command</title><description>Stone Mason (Level 4)</description></item>
@@ -21,5 +22,4 @@
 <item><title>Added a .gitignore file to a repository.</title><description>Apprentice Stone Mason (Level 1)</description></item>
 <item><title>Created a new repository with git init.</title><description>Caretaker</description></item>
 <item><title>Accessed the documentation for a command with git [command] --help</title><description>Apprentice Architect (Level 1)</description></item>
-<item><title></title><description>Student</description></item>
 </channel></rss>
