@@ -2,7 +2,8 @@
 <title>Cadyyan's Git Achievements</title>
 <description></description>
 <link></link>
-<item><title>Made 2^Level commits using git commit.</title>
+<item><title>Add Signed-off-by line at the end of the commit log message using git commit -s.</title>
+<item><title>Made 2^Level commits using git commit.</title><description>Apprentice Locksmith (Level 1)</description></item>
 <item><title>Commit without a parent.</title><description>Apprentice Author (Level 1)</description></item>
 <item><title>Added files to the index area for inclusion in the next commit with git add</title><description>Let there be light</description></item>
 <item><title>Added files to the index area for inclusion in the next commit with git add</title><description>Apprentice Stone Mason (Level 2)</description></item>
