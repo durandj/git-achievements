@@ -2,7 +2,8 @@
 <title>Cadyyan's Git Achievements</title>
 <description></description>
 <link></link>
-<item><title>pushed a branch to a remote repository using git push</title>
+<item><title>Made 2^Level commits using git commit.</title>
+<item><title>pushed a branch to a remote repository using git push</title><description>Apprentice Author (Level 3)</description></item>
 <item><title>Added files to the index area for inclusion in the next commit with git add</title><description>Apprentice Socialite (Level 2)</description></item>
 <item><title>Used a custom alias for a Git command</title><description>Stone Mason (Level 4)</description></item>
 <item><title>pushed a branch to a remote repository using git push</title><description>Garage Inventor</description></item>
