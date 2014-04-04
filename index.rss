@@ -2,7 +2,8 @@
 <title>Cadyyan's Git Achievements</title>
 <description></description>
 <link></link>
-<item><title>Set global email address using git config.</title>
+<item><title>Added files to the index area for inclusion in the next commit with git add</title>
+<item><title>Set global email address using git config.</title><description>Apprentice Stone Mason (Level 3)</description></item>
 <item><title>Set global user name using git config.</title><description>Homeowner</description></item>
 <item><title>Investigate the commit log using git log.</title><description>Baptised</description></item>
 <item><title>Add Signed-off-by line at the end of the commit log message using git commit -s.</title><description>Apprentice Historian (Level 1)</description></item>
