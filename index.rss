@@ -2,7 +2,8 @@
 <title>Cadyyan's Git Achievements</title>
 <description></description>
 <link></link>
-<item><title>Commit without a parent.</title>
+<item><title>Made 2^Level commits using git commit.</title>
+<item><title>Commit without a parent.</title><description>Apprentice Author (Level 1)</description></item>
 <item><title>Added files to the index area for inclusion in the next commit with git add</title><description>Let there be light</description></item>
 <item><title>Added files to the index area for inclusion in the next commit with git add</title><description>Apprentice Stone Mason (Level 2)</description></item>
 <item><title>Added a .gitignore file to a repository.</title><description>Apprentice Stone Mason (Level 1)</description></item>
