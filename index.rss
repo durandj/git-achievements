@@ -2,7 +2,8 @@
 <title>Cadyyan's Git Achievements</title>
 <description></description>
 <link></link>
-<item><title>Investigate the commit log using git log.</title>
+<item><title>Set global user name using git config.</title>
+<item><title>Investigate the commit log using git log.</title><description>Baptised</description></item>
 <item><title>Add Signed-off-by line at the end of the commit log message using git commit -s.</title><description>Apprentice Historian (Level 1)</description></item>
 <item><title>Made 2^Level commits using git commit.</title><description>Apprentice Locksmith (Level 1)</description></item>
 <item><title>Commit without a parent.</title><description>Apprentice Author (Level 1)</description></item>
